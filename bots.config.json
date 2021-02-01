@@ -1,0 +1,7 @@
+ {
+ "token": "put your bot token",
+ "player": "put the name player",
+ "world": "put the name world",
+ "guild": "put the name guilds",
+ "channel": "id channel"
+}
